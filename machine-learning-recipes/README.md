@@ -34,4 +34,4 @@ Jupyter Notebooks with Python recipes should be viewed in the following order as
 
 16. Save and Load Machine Learning Models [[nbviewer]](http://nbviewer.jupyter.org/github/danagerous/machine-learning/blob/master/notebooks/code/Save-and-Load-Machine-Learning-Models.ipynb)
 
-## [Machine Learning Workflow Template](https://gist.github.com/danagerous/7cd83c95b5b1ad1408a67a0c71bcae9d)
+#### [Machine Learning Workflow Template](https://gist.github.com/danagerous/7cd83c95b5b1ad1408a67a0c71bcae9d)

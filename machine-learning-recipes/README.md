@@ -1,7 +1,5 @@
 # Machine Learning Python Recipes
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/danagerous/jupyter-notebooks/tree/master/machine-learning-recipes/master)
-
 Jupyter Notebooks with Python recipes should be viewed in the following order as they build on each other. Best viewed with nbviewer link.
 
 1. Numpy Crash Course [[nbviewer]](http://nbviewer.jupyter.org/github/danagerous/machine-learning/blob/master/notebooks/code/Numpy-Crash-Course.ipynb)
@@ -36,4 +34,4 @@ Jupyter Notebooks with Python recipes should be viewed in the following order as
 
 16. Save and Load Machine Learning Models [[nbviewer]](http://nbviewer.jupyter.org/github/danagerous/machine-learning/blob/master/notebooks/code/Save-and-Load-Machine-Learning-Models.ipynb)
 
-[Machine Learning Workflow Template](https://gist.github.com/danagerous/7cd83c95b5b1ad1408a67a0c71bcae9d)
+## [Machine Learning Workflow Template](https://gist.github.com/danagerous/7cd83c95b5b1ad1408a67a0c71bcae9d)

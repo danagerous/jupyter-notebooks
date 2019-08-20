@@ -1,5 +1,7 @@
 # Machine Learning Python Recipes
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/danagerous/jupyter-notebooks/tree/master/machine-learning-recipes/master)
+
 Jupyter Notebooks with Python recipes should be viewed in the following order as they build on each other. Best viewed with nbviewer link.
 
 1. Numpy Crash Course [[nbviewer]](http://nbviewer.jupyter.org/github/danagerous/machine-learning/blob/master/notebooks/code/Numpy-Crash-Course.ipynb)
